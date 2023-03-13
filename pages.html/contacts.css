@@ -1,0 +1,217 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.container
+{
+
+width: 1440px;
+height: 2000px;
+margin: 0 auto;
+background-image: url(../images/wp22.png);
+background-repeat: no-repeat;
+background-size: contain;
+
+
+}
+
+
+
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+.header
+{
+width: 100%;
+height: 130px;
+background-color: #FFFFFF;
+margin-top: 50px;
+color: rgb(15, 14, 14);
+font-family:sans-serif;
+
+
+}
+
+.logo
+{
+width: 55px;  
+height: 55px;
+float: left;
+margin-left: 95px;
+top: 35px;
+font-size: 12px;
+}
+
+.name{
+margin-top:15px;
+left: 159px;
+float: left;
+font-family: 'Tilt Neon', cursive;
+font-style: normal;
+font-weight: 300px;
+font-size: 19px;
+line-height: 20px;
+padding-left: 10px;
+}
+
+.nav
+{
+float:right;
+margin-right:500px;
+font-size: 17px;
+font-family: 'Tilt Neon', cursive;
+top: 30px;
+font-weight:300
+
+}
+
+
+.clear
+{
+  clear:both;  
+}
+
+
+nav ul
+{
+padding: 0;
+
+
+}
+
+
+.menu{
+margin-bottom: auto;
+}
+
+nav .menu > li
+{
+list-style: none;
+float: left;
+
+}
+
+nav a
+{
+display: block;
+padding-left: 40px;
+text-decoration: none;
+color:#333333;
+margin-top: 15px;
+
+}
+
+
+  nav a:hover{
+    text-align: center;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    color:rgb(125, 129, 130);
+    transition: all 0.5s;
+    } 
+
+.search{
+width: 17.42px;
+height: 17.42px;
+float: right;
+right: 300px;
+top: 71px;
+position: absolute;
+}
+
+
+.main{
+    width: 100%;
+    height: 680px;
+    }
+    
+a{
+
+   text-decoration: none; 
+
+}
+
+.box{
+height: 1350px;
+width: 1300px;
+padding: 10px;
+margin-top: 30px;
+margin-left: 80px;
+
+color: #FFFFFF;
+border-style:dashed;
+font-family: 'Tilt Neon', cursive;
+}
+
+.box h2{
+    font-size: 40px;
+    padding: 10px;
+text-align: center;
+margin-top:  40px;
+text-decoration: #333333;
+}
+
+p{
+font-size: 20px;
+padding: 10px;
+text-align: center;
+}
+
+ .rightt{
+    width:50%;
+    height:30%;
+    float: left;
+    }
+
+
+ .leftt{
+    width:50%;
+    height:30%;
+    float: right;
+    }
+    
+
+.footer{
+    margin-top: 800px;
+  width: 50%;
+  height: 30px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+   color: #FFFFFF;
+  }
+  
+  .row2{
+    width: 100%;
+    height: auto;
+  
+  }
+  
+  .cont{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    text-align:center;
+  }
+  
+  ul.cont li{
+  
+    display: inline-block;
+  }
+  
+  a
+  {
+    text-decoration:none;
+  }
+  
+  ul li{
+    list-style: none;
+    padding: 10px;
+  }
+  
